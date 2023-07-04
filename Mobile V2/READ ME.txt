@@ -1,0 +1,5 @@
+To use the project you have to use android studio and change the sdk directory in buid.properties to whatever it is in you computer.
+Or if you are not using android studio the directory is in the local file.
+
+BUG FIXES-
+   - When waiting for song to load pressing the play/pause button no longer crashes app.
