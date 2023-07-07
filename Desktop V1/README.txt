@@ -1,0 +1,1 @@
+For the desktop client to work you must implement Server V1.
