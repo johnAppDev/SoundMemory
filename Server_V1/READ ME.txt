@@ -1,4 +1,4 @@
-To use this server you need to have the connect/j jar library in the referenced libraries section in visual studio under the project tab.
+To use this server you need to have the connect/j jar library in the referenced libraries section in visual studio code under the project tab.
 As well as a local SQL data base named main with the username and password of root but those can be changed in the code if needed. 
 Within that database you must have these tables, table "t", table "patientinformation", and table "songs"
 
